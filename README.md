@@ -2,6 +2,9 @@
 
 The complete VSCode devcontainer setup that eliminates environment setup time and protects you from AI security incidents. Perfect for parent developers who code in 15-minute windows and can't afford security disasters.
 
+Built by [@meimakes](https://x.com/meimakes)
+
+
 ## Quick Start
 
 1. **Clone this repository** to start fresh or copy `.devcontainer/` into your project

@@ -159,9 +159,7 @@ Now? Worst case: rebuild container, get back to coding.
 
 ## Contributing
 
-This devcontainer is part of the [raisingpixels.dev](https://raisingpixels.dev) parent developer resources. Found an improvement? Open an issue or PR!
-
-Based on the post: ["Stop Losing Coding Time to Environment Setup: The Parent Developer's Devcontainer"](https://raisingpixels.dev/stop-losing-coding-time-to-environment-set-up-the-parent-developers-devcontainer/)
+Found a way to make this better? Open an issue or submit a PR. Whether it's a new extension recommendation, a security improvement, or a workflow trick that saves precious minutes — contributions from fellow parent devs are always welcome.
 
 ## License
 
